@@ -1,0 +1,30 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: burlywood;
+}
+body{
+    background-color: yellow;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid img{
+    border: px solid greenyellow;
+    border-radius: 50px;
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: yellow;
+
+    width: 310;
+
+    font-family: fantasy;
+}
